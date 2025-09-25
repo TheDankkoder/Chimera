@@ -1,0 +1,73 @@
+[
+  {
+    "image": "/data/data/shibu/PiT/assets/data/data/shibu/PiT/assets/vehicle_images/andrew-palmer-LetTqcaCx9o-unsplash.jpg",
+    "parts": [
+      "rotary wing."
+    ]
+  },
+  {
+    "image": "/data/data/shibu/PiT/assets/data/data/shibu/PiT/assets/vehicle_images/dusty-barnes-o7fqZ18YFXc-unsplash.jpg",
+    "parts": [
+      "wheel.",
+      "front."
+    ]
+  },
+  {
+    "image": "/data/data/shibu/PiT/assets/data/data/shibu/PiT/assets/vehicle_images/gabriel-tovar-BSBnWIhve1I-unsplash.jpg",
+    "parts": [
+      "front.",
+      "body.",
+      "wheel."
+    ]
+  },
+  {
+    "image": "/data/data/shibu/PiT/assets/data/data/shibu/PiT/assets/vehicle_images/josh-berquist-_4sWbzH5fp8-unsplash.jpg",
+    "parts": [
+      "front.",
+      "body."
+    ]
+  },
+  {
+    "image": "/data/data/shibu/PiT/assets/data/data/shibu/PiT/assets/vehicle_images/liu-lulu-H8XMwIByNDc-unsplash.jpg",
+    "parts": [
+      "nose.",
+      "back."
+    ]
+  },
+  {
+    "image": "/data/data/shibu/PiT/assets/data/data/shibu/PiT/assets/vehicle_images/matias-luge-UhDSRgDPhfs-unsplash.jpg",
+    "parts": [
+      "wheel.",
+      "head.",
+      "body."
+    ]
+  },
+  {
+    "image": "/data/data/shibu/PiT/assets/data/data/shibu/PiT/assets/vehicle_images/max-itin-7GeprSfVqLQ-unsplash.jpg",
+    "parts": [
+      "front.",
+      "rear."
+    ]
+  },
+  {
+    "image": "/data/data/shibu/PiT/assets/data/data/shibu/PiT/assets/vehicle_images/viktor-ritsvall-FWJinfDsIn8-unsplash.jpg",
+    "parts": [
+      "head.",
+      "body.",
+      "nose."
+    ]
+  },
+  {
+    "image": "/data/data/shibu/PiT/assets/data/data/shibu/PiT/assets/vehicle_images/willy-wo-pXnMG0FfSwA-unsplash.jpg",
+    "parts": [
+      "wing."
+    ]
+  },
+  {
+    "image": "/data/data/shibu/PiT/assets/vehicle_images/tim-meyer-GIm7wxiAZys-unsplash.jpg",
+    "parts": [
+      "front.",
+      "wheel."
+    ]
+  }
+]

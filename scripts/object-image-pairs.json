@@ -1,0 +1,40 @@
+
+
+[
+    {
+      "image": "/data/data/shibu/PiT/assets/object_images/annie-spratt-m1t-RJ1iCIU-unsplash.jpg",
+      "parts": [
+        "top."
+      ]
+    },
+    {
+      "image": "/data/data/shibu/PiT/assets/object_images/cole-keister-rydTSO7xB5A-unsplash.jpg",
+      "parts": [
+
+        "leaf."
+      ]
+    },
+    {
+      "image": "/data/data/shibu/PiT/assets/object_images/jimi-malmberg-3qDOU8wxpKE-unsplash.jpg",
+      "parts": [
+        "top.",
+        "stem."
+
+      ]
+    },
+    {
+      "image": "/data/data/shibu/PiT/assets/object_images/jannik-selz-gRFaPr4tUpY-unsplash.jpg",
+      "parts": [
+        "top.",
+        "stem."
+      ]
+    },
+    {
+      "image": "/data/data/shibu/PiT/assets/object_images/karl-magnuson-T2CJ4ZI7-hg-unsplash.jpg",
+      "parts": [
+        "stem."
+      ]
+    }
+  ]
+
+  

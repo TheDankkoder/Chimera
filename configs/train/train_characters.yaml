@@ -1,0 +1,6 @@
+dataset_path: '/data/data/shibu/HiDream-I1/datasets/generated/animals'
+val_dataset_path: '/data/data/shibu/HiDream-I1/datasets/generated/animals'
+output_dir: 'training_results/train_animals'
+train_batch_size: 64
+num_layers: 4
+max_crops: 7

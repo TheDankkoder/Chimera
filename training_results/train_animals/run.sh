@@ -1,0 +1,1 @@
+python coach.py /scratch/ssing631/PiT/scripts/train.py --config_path=configs/train/train_characters.yaml
